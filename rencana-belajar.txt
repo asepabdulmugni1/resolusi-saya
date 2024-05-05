@@ -1,0 +1,3 @@
+- belajar php dasar
+- belajar database
+- belajar php oop
