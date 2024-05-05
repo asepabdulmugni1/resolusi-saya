@@ -1,3 +1,5 @@
 - belajar php dasar
+  a. Sintaks-Sintaks PHP
 - belajar database
+  a. CRUD
 - belajar php oop
